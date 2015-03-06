@@ -201,7 +201,7 @@ nav ul a li:hover {
 
 /** Section 2 **/
 
-.whatwedo {
+.sec-100 {
 	width: 100%;
 	height: 415px;
 	background-color: #007d42;
@@ -324,7 +324,7 @@ nav ul a li:hover {
 	margin-bottom: 40px;
 }
 
-.sec4arrow {
+.sec5arrow {
 	border-top: 50px solid #007d42;
 	margin-bottom: 40px;
 }
@@ -439,8 +439,6 @@ nav ul a li:hover {
 	border-bottom: 4px solid #fff;
 	position: relative;
 }
-
-
 
 /** Footer **/
 
@@ -810,7 +808,7 @@ nav ul a li:hover {
 	.colleft p {
 		display: none;
 	}
-	.whatwedo {
+	.sec-100 {
 		height: 300px;
 	}
 	.apply {

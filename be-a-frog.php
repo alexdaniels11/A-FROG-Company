@@ -103,7 +103,7 @@
 	<div>
 		<div class="arrow-down sec1arrow top50"></div>
 
-		<div class="whatwedo white apply">
+		<div class="sec-100 white apply">
 		<a class="apply"></a>
 			<div class="center-title">
 				<div class="colleft2">
