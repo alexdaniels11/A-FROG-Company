@@ -32,15 +32,6 @@
 		<div class="whatwedo white apply">
 		<a class="apply"></a>
 			<div class="center-title">
-				<div class="colleft2">
-					<h2>Print Out</h2>
-					<p>
-						To print out your application and mail to our address:
-					</p>
-					<div>
-						<a href="#">Download PDF</a>
-					</div>
-				</div>
 				<div class="colright2">
 					<h2>Apply Online</h2>
 					<p>
