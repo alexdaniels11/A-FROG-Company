@@ -8,6 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
+<div class="green-bar"></div>
 <div class="header">
 		<p><a href="index.html"><img src="img/froglogo.png"></a></p>
 		<nav class="hidden-515">
