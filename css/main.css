@@ -15,7 +15,9 @@ h1, h2, h3, h4, p, div, span, a {
 .green-bar {
 	height: 6px;
 	width: 100%;
-	background-color: #007d42
+	background-color: #007d42;
+	position: fixed;
+	z-index: 99999;
 }
 
 .scroll {
