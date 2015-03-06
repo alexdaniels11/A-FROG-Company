@@ -551,6 +551,14 @@ nav ul a li:hover {
 	background-color: #fff;
 }
 
+.green {
+	color: #007d42;
+}
+
+.green-background {
+	background-color: #007d42;
+}
+
 .top50 {
 	top: 50px;
 }
@@ -663,7 +671,9 @@ nav ul a li:hover {
 	}
 
 
-
+.apply2 {
+	margin-top: -90px;
+}
 
 
 

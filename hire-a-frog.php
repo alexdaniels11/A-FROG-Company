@@ -25,11 +25,7 @@
 	</div>
 
 	<div class="arrow-down sec4arrow"></div>
-
-	<div>
-		<div class="arrow-down sec1arrow top50"></div>
-
-		<div class="whatwedo white apply">
+		<div class="whatwedo white apply apply2">
 		<a class="apply"></a>
 			<div class="center-title">
 				<div class="colright2">
@@ -43,7 +39,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	
 
 
 
