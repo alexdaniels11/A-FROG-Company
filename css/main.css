@@ -324,6 +324,11 @@ nav ul a li:hover {
 	margin-bottom: 40px;
 }
 
+.sec4arrow {
+	border-top: 50px solid #007d42;
+	margin-bottom: 40px;
+}
+
 .center-title {
 	width: 100%;
 	margin-left: auto;
@@ -543,22 +548,6 @@ nav ul a li:hover {
 	opacity: .4;
 }
 
-.white {
-	color: #fff;
-}
-
-.white-background {
-	background-color: #fff;
-}
-
-.green {
-	color: #007d42;
-}
-
-.green-background {
-	background-color: #007d42;
-}
-
 .top50 {
 	top: 50px;
 }
@@ -575,6 +564,22 @@ nav ul a li:hover {
 
 .padding-40 {
 	padding-top: 40px;
+}
+
+.white {
+	color: #fff;
+}
+
+.white-background {
+	background-color: #fff;
+}
+
+.green {
+	color: #007d42;
+}
+
+.green-background {
+	background-color: #007d42;
 }
 
 .four-column {

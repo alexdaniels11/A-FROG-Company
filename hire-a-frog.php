@@ -14,8 +14,8 @@
 		</div>
 	</div>
 
-	<div class="page2">
-		<div class="center-titles padding-40">
+	<div class="page2 green-background">
+		<div class="center-titles padding-40 white">
 			<h1>$20/month per user to access FROG Companies</h2>
 			<h2>+ Enjoy all the benefits that come with being FROG Qualified!</h2>
 			<div class="center-button">
@@ -25,7 +25,7 @@
 	</div>
 
 	<div class="arrow-down sec4arrow"></div>
-		<div class="whatwedo white apply apply2">
+		<div class="whatwedo green white-background apply apply2">
 		<a class="apply"></a>
 			<div class="center-title">
 				<div class="colright2">
