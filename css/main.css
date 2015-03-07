@@ -37,12 +37,30 @@ h1, h2, h3, h4, p, div, span, a {
 	z-index: 99999;
 }
 
+.photo-bar {
+	width: 100%; 
+	height: 40px;
+	background-image: url('../img/forest1.jpg');
+	background-position: center;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	z-index: 99999;
+}
+
 .hidden {
 	display: none;
 }
 
 .hideme {
 	opacity: 0;
+}
+
+.container {
+	margin-top: 200px;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 /** Header and Nav **/

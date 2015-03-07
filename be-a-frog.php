@@ -32,7 +32,7 @@
 			<h1>What does it take to be a FROG Company?</h1>
 			
 			<div class="hideme">
-				<a href="#">
+				<a href="frog-standards.php#fair">
 				<div class="column123">
 					<div class="frog">
 						<h1>F</h1>
@@ -48,7 +48,7 @@
 				</div>
 				</a>
 
-				<a href="#">
+				<a href="frog-standards.php#reliable">
 				<div class="column123">
 					<div class="frog">
 						<h1>R</h1>
@@ -64,7 +64,7 @@
 				</div>
 				</a>
 
-				<a href="#">
+				<a href="frog-standards.php#operational">
 				<div class="column123">
 					<div class="frog">
 						<h1>O</h1>
@@ -80,7 +80,7 @@
 				</div>
 				</a>
 
-				<a href="#">
+				<a href="frog-standards.php#gifted">
 				<div class="column4">
 					<div class="frog">
 						<h1>G</h1>
