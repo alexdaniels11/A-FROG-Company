@@ -18,6 +18,10 @@ input, textarea, select, button {
 	box-sizing: border-box;
 }
 
+label {
+	font-size: 16px;
+}
+
 .green-bar {
 	height: 5px;
 	width: 100%;
@@ -63,7 +67,7 @@ input, textarea, select, button {
 }
 
 .container {
-	margin-top: 125px;
+	margin-top: 200px;
 	width: 80%;
 	margin-left: 10%;
 	margin-right: 10%;
@@ -704,7 +708,7 @@ nav ul a li:hover {
 }
 
 .two-third-left {
-	width: 66%;
+	width: 60%;
 	float: left;
 }
 
@@ -720,7 +724,22 @@ nav ul a li:hover {
 .one-third-right form input {
 	width: 100%;
 	padding: 5px;
-	margin-bottom: 35px;
+	padding-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 45px;
+	border: none;
+	border-bottom: 1px solid;
+	font-size: 12px;
+	transition: all .25s ease-in-out;
+}
+
+.one-third-right form input:focus {
+	-moz-transform: scale(1.25);
+	-ms-transform: scale(1.25);
+	-webkit-transform: scale(1.25);
+	transform: scale(1.25);
+	outline: #007d42 auto 5px;
+	border-bottom: none;
 }
 
 .form-submit-button {
@@ -745,7 +764,7 @@ nav ul a li:hover {
 	background: #007d42;
 }
 
-/* Mobile Dev */
+/********************* Mobile Dev *********************/
 
 @media (max-width: 1457px) {
 	.column123 h2, .column4 h2 {
