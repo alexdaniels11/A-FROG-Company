@@ -1,4 +1,4 @@
-<div class="footer">
+	<footer class="footer">
 		<div class="one-third">
 			<h2>A FROG Company</h2>
 			<p>Fair Business Practices<br>Reliable Financial Standings<br>Operational Excellence<br>Gifted Expertise</p>
@@ -16,7 +16,7 @@
 			<p>(704) 844-0860<br>Fax: (980)-422-0291<br>Info@afrogcompany.com<br>4012 Park Rd, Suite 101<br>Charlotte, NC 28209
 			</p>
 		</div>
-	</div>
+	</footer>
 
 	<script src="js/jquery-1.11.1.js"></script>
 	<script src="js/script.js"></script>

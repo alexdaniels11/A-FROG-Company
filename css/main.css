@@ -12,6 +12,12 @@ h1, h2, h3, h4, p, div, span, a {
 	font-family: 'Open Sans';
 }
 
+input, textarea, select, button {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
 .green-bar {
 	height: 5px;
 	width: 100%;
@@ -57,7 +63,7 @@ h1, h2, h3, h4, p, div, span, a {
 }
 
 .container {
-	margin-top: 200px;
+	margin-top: 125px;
 	width: 80%;
 	margin-left: 10%;
 	margin-right: 10%;
@@ -466,6 +472,7 @@ nav ul a li:hover {
 	width: 100%;
 	background-color: #293237;
 	color: #fff;
+	clear:both;
 	height: 175px;
 }
 
@@ -696,7 +703,47 @@ nav ul a li:hover {
 	margin-top: -90px;
 }
 
+.two-third-left {
+	width: 66%;
+	float: left;
+}
 
+.one-third-right {
+	width:30%;
+	float: right;
+}
+
+.one-third-right h3 {
+	margin-bottom: 50px
+}
+
+.one-third-right form input {
+	width: 100%;
+	padding: 5px;
+	margin-bottom: 35px;
+}
+
+.form-submit-button {
+	width: 100%;
+	background-color: #fff;
+	color: #007d42;
+	font-family: inherit;
+	font-size: 16px;
+	border: 2px solid #007d42;
+	border-radius: 4px;
+	padding: 10px 0 10px 0;
+	cursor: pointer;
+	-webkit-transition-duration: 0.25s;
+	transition-duration: 0.25s;
+}
+
+.form-submit-button:hover{
+	color: #fff;
+}
+
+.form-submit-button:before {
+	background: #007d42;
+}
 
 /* Mobile Dev */
 
