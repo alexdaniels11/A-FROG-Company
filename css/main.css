@@ -12,6 +12,10 @@ h1, h2, h3, h4, p, div, span, a {
 	font-family: 'Open Sans';
 }
 
+h1	{
+	font-size: 36px;
+}
+
 input, textarea, select, button {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -90,7 +94,7 @@ label {
 	z-index: 99999;
 }
 
-.hidden {
+.hero-hidden {
 	display: none;
 }
 
@@ -134,6 +138,7 @@ nav	{
 
 nav ul {
 	list-style: none;
+	margin-top: 10px;
 }
 
 nav ul a li {
@@ -154,11 +159,8 @@ nav ul a li:hover {
 }
 
 .sec1arrow {
-	top: 145px;
+	top: 140px;
 }
-
-
-	
 
 
 .heroarea {
@@ -260,13 +262,18 @@ nav ul a li:hover {
 	padding-top: 40px;
 }
 
-.colright img {
+.colright a img {
 	float: right;
 	width: 25%;
 	margin-left: 12.5%;
 	margin-right: 12.5%;
-	padding-top: 40px;
+	margin-top: 40px;
 	max-width: 312px;
+	transition: .25s;
+}
+
+.colright a img:hover {
+	transform: rotate(360deg) scale(.85);
 }
 
 

@@ -11,7 +11,7 @@
 
 		<div>
 			<div>
-				<h1>FROG Standards and qualifications</h1>
+				<h1>FROG Standards and Qualifications</h1>
 			</div>
 
 			<a name="fair"></a>

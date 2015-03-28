@@ -6,7 +6,7 @@
 
 
 		<div class="hero1">
-			<div class="herotext hidden">
+			<div class="herotext hero-hidden">
 				<h1>Be A FROG</h1>
 				<p>By setting the bar high for integrity and high performance in commercial construction, the FROG designation provides immediate recognition for companies of proven financial stability and quality so that they may be recognized by their worth.  All companies with the FROG Company designation are qualified through a strong set of criteria.</p>
 			</div>

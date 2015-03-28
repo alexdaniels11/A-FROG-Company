@@ -5,12 +5,12 @@
 	<div class="arrow-down sec1arrow"></div>
 
 	<div class="hero1">
-		<div class="herotext hidden">
+		<div class="herotext hero-hidden">
 			<h1>Hire A FROG</h1>
 			<p>By setting the bar high for integrity and high performance in commercial construction, the FROG designation provides immediate recognition for companies of proven financial stability and quality so that they may be recognized by their worth.  All companies with the FROG Company designation are qualified through a strong set of criteria.</p>
 		</div>
 		<div class="buttonfrog">
-			<p><a class="scroll">Hire A FROG Company</a></p>
+			<p><a class="btn hvr-sweep-to-top scroll">Hire A FROG Company</a></p>
 		</div>
 	</div>
 
@@ -19,7 +19,7 @@
 			<h1>$20/month per user to access FROG Companies</h2>
 			<h2>+ Enjoy all the benefits that come with being FROG Qualified!</h2>
 			<div class="center-button">
-				<p><a href="#">Learn More</a></p>
+				<p><a class="btn hvr-sweep-to-top" href="#">Learn More</a></p>
 			</div>
 		</div>
 	</div>
@@ -28,13 +28,16 @@
 		<div class="sec-100 green white-background apply apply2">
 		<a class="apply"></a>
 			<div class="center-title">
+				<div class="colleft2">
+					<img src="img/">
+				</div>
 				<div class="colright2">
 					<h2>Apply Online</h2>
 					<p>
 						To apply through our website and submit online:
 					</p>
 					<div>
-						<a href="#"> Hire Online</a>
+						<a class="btn grn-btn hvr-sweep-to-top" href="#"> Hire Online</a>
 					</div>
 				</div>
 			</div>
