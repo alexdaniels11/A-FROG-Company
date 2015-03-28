@@ -11,14 +11,14 @@
 <body>
 <div class="green-bar"></div>
 <div class="header">
-		<p><a href="index.html"><img src="img/froglogo.png"></a></p>
-		<nav class="hidden-515">
-			<ul>
-				<a href="index.php"><li>Home</li></a>
-				<a href="be-a-frog.php"><li>Be<span class="hidden-803"> a FROG<span></li></a>
-				<a href="hire-a-frog.php"><li>Hire<span class="hidden-803"> a FROG<span></li></a>
-				<a href="about.php"><li>About</li></a>
-				<a href="contact.php"><li>Contact</li></a>
-			</ul>
-		</nav>
-	</div>
+	<p><a href="index.html"><img src="img/froglogo.png"></a></p>
+	<nav class="hidden-515">
+		<ul>
+			<a href="index.php"><li>Home</li></a>
+			<a href="be-a-frog.php"><li>Be<span class="hidden-803"> a FROG<span></li></a>
+			<a href="hire-a-frog.php"><li>Hire<span class="hidden-803"> a FROG<span></li></a>
+			<a href="about.php"><li>About</li></a>
+			<a href="contact.php"><li>Contact</li></a>
+		</ul>
+	</nav>
+</div>

@@ -11,7 +11,7 @@
 				<p>By setting the bar high for integrity and high performance in commercial construction, the FROG designation provides immediate recognition for companies of proven financial stability and quality so that they may be recognized by their worth.  All companies with the FROG Company designation are qualified through a strong set of criteria.</p>
 			</div>
 			<div class="buttonfrog">
-				<p><a class="scroll">Get FROG qualified today</a></p>
+				<p><a class="btn hvr-sweep-to-top scroll">Get FROG qualified today</a></p>
 			</div>
 		</div>
 
@@ -20,7 +20,7 @@
 				<h1>$100/month to maintain your FROG qualification</h2>
 				<h2>+ Enjoy all the benefits that come with being FROG Qualified!</h2>
 				<div class="center-button">
-					<p><a href="#">Learn More</a></p>
+					<p><a class="btn grn-btn hvr-sweep-to-top" href="#">Learn More</a></p>
 				</div>
 			</div>
 		</div>
@@ -112,7 +112,7 @@
 						To print out your application and mail to our address:
 					</p>
 					<div>
-						<a href="#">Download PDF</a>
+						<a class="btn hvr-sweep-to-top" href="#">Download PDF</a>
 					</div>
 				</div>
 				<div class="colright2">
@@ -121,7 +121,7 @@
 						To apply through our website and submit online:
 					</p>
 					<div>
-						<a href="#"> Apply Online</a>
+						<a class="btn hvr-sweep-to-top" href="#"> Apply Online</a>
 					</div>
 				</div>
 			</div>

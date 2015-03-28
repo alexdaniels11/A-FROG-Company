@@ -7,7 +7,7 @@
 		<div class="heroarea">
 			<div>
 				<h1 class="herotext hidden">Become a FROG Company</h1>
-				<p><a href="be-a-frog.html">Frog Qualified</a></p>
+				<p><a class="btn hvr-sweep-to-top" href="be-a-frog.html">Frog Qualified</a></p>
 			</div>
 		</div>
 
@@ -15,7 +15,7 @@
 			<div class="colleft">
 				<h2>Standards & Qualification</h2>
 				<p>We seek to qualify and facilitate the growth of FROG companies in the commercial construction industry.  These are companies that want to be recognized for their integrity, experience, and excellence in quality and management.</p>
-				<div><a href="about.html">Learn More</a></div>
+				<div><a class="btn hvr-sweep-to-top" href="about.html">Learn More</a></div>
 			</div>
 			<div class="colright hideme hidden-600">
 				<img src="img/whitelogo.png">
@@ -29,7 +29,7 @@
 			<h2>$20/month per User, No Qualification Necessary</h2>
 			<h1>Access FROG Resources</h2>
 			<div class="center-button">
-				<p><a href="#">Access FROG Resources</a></p>
+				<p><a class="btn grn-btn hvr-sweep-to-top" href="#">Access FROG Resources</a></p>
 			</div>
 		</div>
 	</div>
