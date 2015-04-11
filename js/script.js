@@ -28,3 +28,17 @@ jQuery(document).ready(function(){
         return false;
     });
 });
+
+jQuery(".nav").addClass("js");
+
+jQuery(".nav").addClass("js").before('<div class="menu">MENU☰</div>');
+
+jQuery(".menu").click(function(){
+    $(".nav").toggle();
+});
+
+jQuery(window).resize(function(){
+    if(window.innerWidth > 768) {
+        $(".nav").removeAttr("style");
+    }
+});
