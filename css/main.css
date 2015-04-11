@@ -176,7 +176,7 @@ nav ul a li:hover {
 	text-align: center;
 	color: #fff;
 	font-weight: 300;
-	padding-top: 200px;
+	padding-top: 185px;
 	font-size: 4em;
 	cursor: default;
 }
@@ -816,7 +816,7 @@ nav ul a li:hover {
 	}
 	.hero1 .buttonfrog {
 		width: 100%;
-		margin-top: 50px;
+		margin-top: 10px;
 	}
 	.four-column {
 		height: 975px;
