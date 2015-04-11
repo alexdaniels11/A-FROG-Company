@@ -890,9 +890,6 @@ nav ul a li:hover {
 	.menu {
 		display: none;
 	}
-	nav {
-		display: table;
-	}
 }
 
 @media (max-width: 661px) {
