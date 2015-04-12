@@ -418,6 +418,16 @@ nav ul a li:hover {
 	padding: 20px 30px;
 }
 
+.colleft2 img {
+	float: left;
+	width: 75%;
+	margin-left: 12.5%;
+	margin-right: 12.5%;
+	margin-top: 40px;
+	max-width: 312px;
+	transition: .25s;
+}
+
 /** Footer **/
 
 .footer {
@@ -658,13 +668,16 @@ nav ul a li:hover {
 }
 
 .two-third-left {
+	margin-bottom: 70px;
 	width: 60%;
 	float: left;
 }
 
 .one-third-right {
+	margin-bottom: 70px;
 	width:30%;
 	float: right;
+	margin-top: 35px;
 }
 
 .one-third-right h3 {
@@ -675,10 +688,13 @@ nav ul a li:hover {
 	width: 100%;
 	padding: 5px;
 	padding-left: 10px;
-	margin-top: 10px;
+	margin-top: 20px;
 	margin-bottom: 45px;
+	color: #007d42;
 	border: none;
-	border-bottom: 1px solid;
+	border-bottom: 1px solid #000;
+	border-left: 1px solid #000;
+	border-bottom-left-radius: 10px;
 	font-size: 12px;
 	transition: all .25s ease-in-out;
 }
@@ -689,7 +705,14 @@ nav ul a li:hover {
 	-webkit-transform: scale(1.25);
 	transform: scale(1.25);
 	outline: #007d42 auto 5px;
+	color: #000;
+	background-color: #eee;
 	border-bottom: none;
+	border-left: none;
+}
+
+.ebook-img img {
+	width: 100%;
 }
 
 .form-submit-button {
@@ -752,6 +775,9 @@ nav ul a li:hover {
 	.page2 h2 {
 		font-size: 1.25em;
 	}
+	.colleft2 img {
+		margin-top: 20%;
+	}
 }
 
 @media (max-width: 1000px) {
@@ -801,37 +827,6 @@ nav ul a li:hover {
 	}
 }
 
-@media (max-width: 798px) {
-	.hero1{
-		height: 625px;
-	}
-	.hero1 .herotext h1 {
-		width: 100%;
-		text-align: center;
-		padding-bottom: 20px;
-	}
-	.hero1 .herotext p {
-		width: 100%;
-		text-align: center;
-	}
-	.hero1 .buttonfrog {
-		width: 100%;
-		margin-top: 10px;
-	}
-	.four-column {
-		height: 975px;
-		margin-left: 12.25%;
-		margin-right: 7.75%;
-	}
-	.column123, .column4 {
-		width: 45%;
-		height: 377px;
-	}
-	.column123 h2, .column4 h2 {
-		padding: 0 22% 0 22%;
-	}
-}
-
 @media (max-width: 825px) {
 	.colleft p {
 		display: none;
@@ -840,19 +835,25 @@ nav ul a li:hover {
 		height: 300px;
 	}
 	.apply {
-	height: 525px;
+		height: 525px;
+	}
+	.apply2 {
+		height:300px;
+	}
+	.colleft2 img {
+		margin-top: 40%;
 	}
 	.colleft2 div a, .colright2 div a {
 		text-align: center;
 	}
 	nav	{
-	float: right;
-	display: inherit;
-	background-color: #fff;
-	position: absolute;
-	z-index: 99999;
-	width: 100%;
-	margin-top: 145px;
+		float: right;
+		display: inherit;
+		background-color: #fff;
+		position: absolute;
+		z-index: 99999;
+		width: 100%;
+		margin-top: 145px;
 	}
 	nav ul {
 		padding-left: 0;
@@ -884,11 +885,54 @@ nav ul a li:hover {
 	.nav.js {
 		display: none;
 	}
+	.two-third-left {
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+	.one-third-right {
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+	.ebook-img img {
+		margin-bottom: 50px
+	}
 }
 
 @media (min-width: 825px) {
 	.menu {
 		display: none;
+	}
+}
+@media (max-width: 798px) {
+	.hero1{
+		height: 625px;
+	}
+	.hero1 .herotext h1 {
+		width: 100%;
+		text-align: center;
+		padding-bottom: 20px;
+	}
+	.hero1 .herotext p {
+		width: 100%;
+		text-align: center;
+	}
+	.hero1 .buttonfrog {
+		width: 100%;
+		margin-top: 10px;
+	}
+	.four-column {
+		height: 975px;
+		margin-left: 12.25%;
+		margin-right: 7.75%;
+	}
+	.column123, .column4 {
+		width: 45%;
+		height: 377px;
+	}
+	.column123 h2, .column4 h2 {
+		padding: 0 22% 0 22%;
 	}
 }
 
@@ -948,6 +992,9 @@ nav ul a li:hover {
 	}
 	.apply {
 	height: 800px;
+	}
+	.apply2 {
+		text-align: center;
 	}
 }
 

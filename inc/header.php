@@ -3,7 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-	<title>Standards and Qualification | A FROG COMPANY</title>
+
+	<?php echo("<title>$page_title</title>") ;?>
+
+	<meta name="description" content="<?php echo("$page_meta") ;?>">
+
 	<link rel="icon" type="icon/ico" href="img/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="css/hover.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">

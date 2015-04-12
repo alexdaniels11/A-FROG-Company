@@ -1,5 +1,7 @@
 <!-- Header -->
 
+<?php  $page_title="Construction Standards and Qulification | A FROG Company";?>
+<?php $page_meta="A FROG Company. A Standards & Qualification Company that is bringing the best of the best together!";?>
 <?php include 'inc/header.php';?>
 
 		<div class="arrow-down sec1arrow"></div>
@@ -39,11 +41,11 @@
 			<h3>Testimonials</h3>
 			<div class="rightline"></div>
 			<div class="colleft1">
-				<p>"The FROG qualified contractor we choose did a great job! He came in on time and in budget. We owe all this to you for your expertise in this field."</p>
+				<p>"The FROG qualified contractor we chose did a great job! He came in on time and in budget. We owe all this to you for your expertise in this field."</p>
 				<p>- Steve B.<br><a target="_blank" href="http://www.blytheconstruction.com/">Blythe Construction</a></p>
 			</div>
 			<div class="colright1">
-				<p>"For 23 years we have telling people ECDI is a strong company financially and we are a great Electrical Design Build Partner. FROG is a great idea.  Finally there is a third party that can validate this!"</p>
+				<p>"For 23 years we have been telling people ECDI is a strong company financially and we are a great Electrical Design Build Partner. FROG is a great idea.  Finally there is a third party that can validate this!"</p>
 				<p>- Tedd S.<br><a target="_blank" href="http://www.ecdi.net/">ECDI</a></p>
 			</div>
 		</div>

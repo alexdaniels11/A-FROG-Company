@@ -1,6 +1,10 @@
 <!-- Header -->
 
+<?php $page_title="Hire A FROG Company | A FROG Company";?>
+<?php $page_meta="Hire A FROG Company. Learn what it means to work with the best in your field!";?>
 <?php include 'inc/header.php';?>
+
+
 	
 	<div class="arrow-down sec1arrow"></div>
 
@@ -29,10 +33,10 @@
 		<a class="apply"></a>
 			<div class="center-title">
 				<div class="colleft2">
-					<img src="img/">
+					<img src="img/greenlogo.png">
 				</div>
 				<div class="colright2">
-					<h2>Apply Online</h2>
+					<h2>Hire Online</h2>
 					<p>
 						To apply through our website and submit online:
 					</p>
@@ -50,32 +54,4 @@
 
 
 
-	<div class="footer">
-		<div class="one-third">
-			<h2>A FROG Company</h2>
-			<p>Fair Business Practices<br>Reliable Financial Standings<br>Operational Excellence<br>Gifted Expertise</p>
-		</div>
-		<div class="two-third">
-			<h2>Social</h2>
-			<p>
-				<a href="https://www.linkedin.com/company/a-frog-company" target="_blank"><img class="linkedin" src="img/linkedin.png"></a>
-				<a href="https://twitter.com/HardHatFROG" target="_blank"><img class="twitter" src="img/twitter.png"></a>
-				<a href="https://www.facebook.com/afrogcompany" target="_blank"><img class="facebook" src="img/facebook.png"></a>
-			</p>
-		</div>
-		<div class="three-third">
-			<h2>Contact</h2>
-			<p>(704) 844-0860<br>Fax: (980)-422-0291<br>Info@afrogcompany.com<br>4012 Park Rd, Suite 101<br>Charlotte, NC 28209
-			</p>
-		</div>
-	</div>
-
-
-
-	
-
-	<script src="js/jquery-1.11.1.js"></script>
-	<script src="js/script.js"></script>
-	
-</body>
-</html>
+	<?php include 'inc/footer.php';?>

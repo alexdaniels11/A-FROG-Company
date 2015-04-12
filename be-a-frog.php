@@ -1,5 +1,7 @@
 <!-- Header -->
 
+<?php $page_title="Become A FROG Company | A FROG Company";?>
+<?php $page_meta="Become A FROG Company. Learn what it takes to qualify your company!";?>
 <?php include 'inc/header.php';?>
 	
 		<div class="arrow-down sec1arrow"></div>
