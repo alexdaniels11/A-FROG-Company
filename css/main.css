@@ -677,11 +677,11 @@ nav ul a li:hover {
 	margin-bottom: 70px;
 	width:30%;
 	float: right;
-	margin-top: 35px;
+	margin-top: 30px;
 }
 
 .one-third-right h3 {
-	margin-bottom: 50px
+	margin-bottom: 35px
 }
 
 .one-third-right form input {
@@ -735,6 +735,50 @@ nav ul a li:hover {
 
 .form-submit-button:before {
 	background: #007d42;
+}
+
+.culture-img {
+	background-image: url('../img/culture.jpg');
+	height: 200px;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	left: -21%;
+	width: 138%;
+	z-index: -1;
+	margin-bottom: 50px;
+}
+
+.photo-box-left {
+	width: 50%;
+	height: 150px;
+	background-size: cover;
+	background-position: center;
+	float: left;
+}
+
+.photo-box-right {
+	width: 50%;
+	height: 150px;
+	background-size: cover;
+	background-position: center;
+	float: right;
+}
+
+.martha {
+	background-image: url('../img/martha.jpg');
+}
+
+.john {
+	background-image: url('../img/john.jpg');
+}
+
+.alex {
+	background-image: url('../img/alex.jpg');
+}
+
+.mo {
+	background-image: url('../img/mo.jpg');
 }
 
 /********************* Mobile Dev *********************/

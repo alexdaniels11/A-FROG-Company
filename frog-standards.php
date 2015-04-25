@@ -17,7 +17,7 @@
 	<article class="two-third-left">
 		
 		<!-- Place php include main content here -->
-		<?php include 'inc/main-content/main-content-frog-standards.php' ;?>
+		<?php include 'inc/main-content/frog-standards.php' ;?>
 
 	</article>
 
@@ -30,7 +30,7 @@
 	<aside class="one-third-right">
 		
 		<!-- Place php include sidebar here -->
-		<?php include 'inc/sidebars/sidebar-download-100-ways.php' ;?>
+		<?php include 'inc/sidebars/download-100-ways.php' ;?>
 
 	</aside>
 
